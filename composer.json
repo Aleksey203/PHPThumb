@@ -24,5 +24,10 @@
             "PHPThumb": "src",
             "PHPThumb\\Tests": "tests"
         }
+    },
+  "extra": {
+        "branch-alias": {
+            "dev-master": "2.2.*-dev"
+        }
     }
 }
